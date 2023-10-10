@@ -1,0 +1,822 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width" name="MobileOptimized"/>
+<meta content="true" name="HandheldFriendly"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="/themes/custom/un_press_theme/favicon.ico" rel="icon" type="image/vnd.microsoft.icon"/>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&l='+l:'';j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl+'';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NWVSS4R');</script>
+<title>Frontpage | UN Press</title>
+<link href="/sites/default/files/css/css_coMwhKN-4Golffq2yhSJKtNaG0tnOJsQA1XUlXzrhCg.css" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_SG2VqkisULL-jcdvCik8Fl-Wjr62fAk8Mk2BiBICszI.css" media="all" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;600;700&amp;display=swap" media="all" rel="stylesheet"/>
+<link href="https://use.fontawesome.com/releases/v5.13.1/css/all.css" media="all" rel="stylesheet"/>
+</head>
+<body>
+<a class="visually-hidden focusable" href="#main-content">
+      Skip to main content
+    </a>
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-NWVSS4R" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+<div class="page">
+<header class="main-header">
+<div class="page-loader"></div>
+<div class="container-fluid brandbar-header fixed-top">
+<div class="container">
+<div class="row justify-content-around align-items-center">
+<div class="col-8 col-sm-3">
+<div class="block block--un-press-theme-branding block--system-branding">
+<a aria-label="" class="navbar-brand d-flex align-items-center block--system-branding" href="/en">
+</a>
+</div>
+<a class="navbar-brand" href="https://www.un.org/en"><i class="home-icon fas fa-home fa-lg"></i> Welcome to the United Nations</a>
+</div>
+<div class="col-4 col-sm-9 d-flex justify-content-end language-switcher">
+<div class="language-switcher-language-url block block--languageswitcher" role="navigation">
+<div class="language-wrapper">
+<button aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle language" class="navbar-toggler language-button d-block d-md-none" data-bs-target=".links.nav" data-bs-toggle="collapse" type="button"><span class="title">Language:</span>
+<span class="navbar-toggler-icon"></span>
+</button>
+<ul class="links nav">
+<li class="nav-item" data-drupal-link-system-path="home" hreflang="fr"><span><a class="language-link" data-drupal-link-system-path="home" href="/fr/home" hreflang="fr">Français</a></span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="navbar-wrapper">
+<div class="container">
+<div class="row justify-content-around align-items-center">
+<div class="col-12 col-lg-9 d-flex branding-top-wrapper">
+<a class="logo navbar-btn pull-left flip" href="https://www.un.org/en" title="United Nations"></a>
+<a class="navbar-brand pull-left flip" href="https://press.un.org/en">Meetings Coverage and Press Releases</a>
+</div>
+<div class="col-12 col-lg-3 justify-content-end search-wrapper d-none d-md-block">
+<div class="views-exposed-form bef-exposed-form needs-validation block block--exposedformsitesearchpage-1" data-drupal-selector="views-exposed-form-sitesearch-page-1">
+<form accept-charset="UTF-8" action="/en/sitesearch" class="form" id="views-exposed-form-sitesearch-page-1" method="get">
+<div class="js-form-item form-item js-form-type-textfield form-item-search-api-fulltext js-form-item-search-api-fulltext form-group">
+<input class="form-textfield form-control" data-drupal-selector="edit-search-api-fulltext" id="edit-search-api-fulltext" maxlength="128" name="search_api_fulltext" size="30" type="text" value=""/>
+<label class="sr-only" for="edit-search-api-fulltext">Search</label>
+<label class="sr-only" for="edit-search-api-fulltext--2">Search</label>
+</div>
+<fieldset class="fieldgroup form-composite js-form-item form-item js-form-wrapper form-wrapper mb-3" data-drupal-selector="edit-sort-by" id="edit-sort-by--wrapper">
+<legend class="fieldset-legend m-0">
+      Sort By</legend>
+<div class="fieldset-wrapper">
+<div class="form-radios" id="edit-sort-by"><div class="form-radios">
+<div class="js-form-item form-item js-form-type-radio form-item-sort-by js-form-item-sort-by form-check">
+<input checked="checked" class="form-radio form-check-input" data-drupal-selector="edit-sort-by-field-dated" id="edit-sort-by-field-dated" name="sort_by" type="radio" value="field_dated"/>
+<label class="form-check-label option" for="edit-sort-by-field-dated">Most Recent Entries</label>
+</div>
+<div class="js-form-item form-item js-form-type-radio form-item-sort-by js-form-item-sort-by form-check">
+<input class="form-radio form-check-input" data-drupal-selector="edit-sort-by-search-api-relevance" id="edit-sort-by-search-api-relevance" name="sort_by" type="radio" value="search_api_relevance"/>
+<label class="form-check-label option" for="edit-sort-by-search-api-relevance">Most Relevant Entries</label>
+</div>
+</div>
+</div>
+</div>
+</fieldset>
+<div class="form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions">
+<input class="js-form-submit form-submit btn btn-primary" data-drupal-selector="edit-submit-sitesearch" id="edit-submit-sitesearch" type="submit" value="Search"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="nav-wrapper">
+<div class="container">
+<div class="row">
+<div class="col-12">
+<div class="menu-container bg-dark">
+<div class="menu-main">
+<nav class="navbar navbar-expand-lg justify-content-between">
+<button aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target=".navbar-collapse" data-bs-toggle="collapse" type="button">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse">
+<div class="block block--mainenglishmenu block--system-menu">
+<ul class="nav">
+<li class="nav-item">
+<a class="nav-link is-active" data-drupal-link-system-path="&lt;front&gt;" href="/en" title="">Home</a>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" data-drupal-link-system-path="content/secretary-general" href="/en/content/secretary-general" title="Secretary-General">Secretary-General</a>
+<div class="dropdown-menu">
+<a class="dropdown-item" data-drupal-link-system-path="content/secretary-general" href="/en/content/secretary-general" title="Latest Press Release, Statements etc. from the Secretary General">Latest</a>
+<a class="dropdown-item" data-drupal-link-system-path="content/secretary-general/press-release" href="/en/content/secretary-general/press-release" title="Secretary General Press Releases">Press Releases</a>
+<a class="dropdown-item" data-drupal-link-system-path="content/secretary-general/press-conference" href="/en/content/secretary-general/press-conference" title="Secretary Genral Press Conferences">Press Conferences</a>
+</div>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" data-drupal-link-system-path="content/general-assembly" href="/en/content/general-assembly" title="General Assembly">General Assembly</a>
+<div class="dropdown-menu">
+<a class="dropdown-item" data-drupal-link-system-path="content/general-assembly" href="/en/content/general-assembly" title="">Latest</a>
+<a class="dropdown-item" data-drupal-link-system-path="content/general-assembly/meetings-coverage" href="/en/content/general-assembly/meetings-coverage" title="General Assembly Meetings Coverage">Meetings Coverage</a>
+<a class="dropdown-item" data-drupal-link-system-path="content/general-assembly/press-release" href="/en/content/general-assembly/press-release" title="General Assembly Press Releases">Press Releases</a>
+</div>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" data-drupal-link-system-path="content/security-council" href="/en/content/security-council" title="Security Council">Security Council</a>
+<div class="dropdown-menu">
+<a class="dropdown-item" data-drupal-link-system-path="content/security-council" href="/en/content/security-council" title="">Latest</a>
+<a class="dropdown-item" data-drupal-link-system-path="content/security-council/meetings-coverage" href="/en/content/security-council/meetings-coverage" title="">Meetings Coverage</a>
+<a class="dropdown-item" data-drupal-link-system-path="content/security-council/press-release" href="/en/content/security-council/press-release" title="">Press Releases</a>
+<a class="dropdown-item" data-drupal-link-system-path="content/security-council/press-conference" href="/en/content/security-council/press-conference" title="">Press Conferences</a>
+</div>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" data-drupal-link-system-path="content/economic-and-social-council" href="/en/content/economic-and-social-council" title="Economic and Social Council">Economic and Social Council</a>
+<div class="dropdown-menu">
+<a class="dropdown-item" data-drupal-link-system-path="content/economic-and-social-council" href="/en/content/economic-and-social-council" title="">Latest</a>
+<a class="dropdown-item" data-drupal-link-system-path="content/economic-and-social-council/meetings-coverage" href="/en/content/economic-and-social-council/meetings-coverage" title="">Meetings Coverage</a>
+<a class="dropdown-item" data-drupal-link-system-path="content/economic-and-social-council/press-release" href="/en/content/economic-and-social-council/press-release" title="">Press Releases</a>
+</div>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://www.icj-cij.org/en/press-releases" title=""> International Court of Justice</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<main class="">
+<a id="main-content" tabindex="-1"></a>
+<div class="page__content">
+<div class="container mt-2">
+<div class="hidden" data-drupal-messages-fallback=""></div>
+<div class="block block--un-press-theme-content block--system-main">
+<div class="panel-display bartlett-flipped clearfix">
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9 panel-panel radix-layouts-main-column">
+<div class="row">
+<div class="col-md-12 radix-layouts-contentheader panel-panel">
+<div class="panel-panel-inner">
+<div class="views-element-container block">
+<div>
+<div class="view js-view-dom-id-f43d16db3db09da4bfb44eb8f75cc7bfa1ede32d14b42d765a6219c646ef71eb view-homepage-slider">
+<div class="view-header">
+<h1 class="front-page-title"><a href="/en/about">We’ve got the United Nations covered</a></h1>
+</div>
+<div class="view-content">
+<div class="skin-default">
+<div class="views_slideshow_cycle_main views_slideshow_main" id="views_slideshow_cycle_main_homepage_slider-block_1">
+<div class="views_slideshow_cycle_teaser_section" id="views_slideshow_cycle_teaser_section_homepage_slider-block_1">
+<div class="views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-odd" id="views_slideshow_cycle_div_homepage_slider-block_1_0">
+<div class="views-row views-row-0 views-row-odd views-row-first">
+<div class="views-field views-field-field-slider-title"><div class="field-content slider-link"><a href="/en/content/secretary-general">Secretary General</a></div></div><div class="views-field views-field-field-media-image"><div class="field-content"><a href="/en/content/secretary-general">
+<img alt="Secretary-General" class="img-fluid" height="415" loading="lazy" src="/sites/default/files/styles/slider_990x415/public/images/slider/SG%20slide.jpg?itok=Et8RkWqx" width="990"/>
+</a></div></div><div class="views-field views-field-field-body"><div class="field-content slider-photo-credit"><p>Press releases, press conferences, statements, official travel</p>
+</div></div>
+</div>
+</div>
+<div class="views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even" id="views_slideshow_cycle_div_homepage_slider-block_1_1">
+<div class="views-row views-row-1 views-row-even">
+<div class="views-field views-field-field-slider-title"><div class="field-content slider-link"><a href="/en/content/general-assembly">General Assembly</a></div></div><div class="views-field views-field-field-media-image"><div class="field-content"><a href="/en/content/general-assembly">
+<img alt="General Assembly" class="img-fluid" height="415" loading="lazy" src="/sites/default/files/styles/slider_990x415/public/images/slider/GA%20slide.jpg?itok=Z-UaHZLe" width="990"/>
+</a></div></div><div class="views-field views-field-field-body"><div class="field-content slider-photo-credit"><p>Meetings coverage, press releases, press conferences, committees</p>
+</div></div>
+</div>
+</div>
+<div class="views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd" id="views_slideshow_cycle_div_homepage_slider-block_1_2">
+<div class="views-row views-row-2 views-row-odd">
+<div class="views-field views-field-field-slider-title"><div class="field-content slider-link"><a href="/en/content/security-council">Security Council</a></div></div><div class="views-field views-field-field-media-image"><div class="field-content"><a href="/en/content/security-council">
+<img alt="Security Council" class="img-fluid" height="415" loading="lazy" src="/sites/default/files/styles/slider_990x415/public/uploads/2023/01/SC%20slide_0.jpg?itok=exfSS1j3" width="990"/>
+</a></div></div><div class="views-field views-field-field-body"><div class="field-content slider-photo-credit"><p>Meetings coverage, Press releases, Press Conferences</p></div></div>
+</div>
+</div>
+<div class="views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even" id="views_slideshow_cycle_div_homepage_slider-block_1_3">
+<div class="views-row views-row-3 views-row-even views-row-last">
+<div class="views-field views-field-field-slider-title"><div class="field-content slider-link"><a href="/en/content/economic-and-social-council">Economic and Social Council</a></div></div><div class="views-field views-field-field-media-image"><div class="field-content"><a href="/en/content/economic-and-social-council">
+<img alt="Economic and Social Council" class="img-fluid" height="415" loading="lazy" src="/sites/default/files/styles/slider_990x415/public/images/slider/ECOSOC%20slide.jpg?itok=ecc_dxY8" width="990"/>
+</a></div></div><div class="views-field views-field-field-body"><div class="field-content slider-photo-credit"><p>Meetings coverage, press releases, press conferences</p>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-slideshow-controls-bottom clearfix">
+<div class="views_slideshow_controls_text" id="views_slideshow_controls_text_homepage_slider-block_1">
+<span class="views_slideshow_controls_text_previous" id="views_slideshow_controls_text_previous_homepage_slider-block_1">
+<a href="#">Previous</a>
+</span>
+<span class="views_slideshow_controls_text_pause views-slideshow-controls-text-status-play" id="views_slideshow_controls_text_pause_homepage_slider-block_1">
+<a href="#">Pause</a>
+</span>
+<span class="views_slideshow_controls_text_next" id="views_slideshow_controls_text_next_homepage_slider-block_1">
+<a href="#">Next</a>
+</span>
+</div>
+<ul class="widget_pager widget_pager_bottom views-slideshow-pager-bullets views_slideshow_pager_field" id="widget_pager_bottom_homepage_slider-block_1"><li id="views_slideshow_pager_field_item_bottom_homepage_slider-block_1_0">0</li><li id="views_slideshow_pager_field_item_bottom_homepage_slider-block_1_1">1</li><li id="views_slideshow_pager_field_item_bottom_homepage_slider-block_1_2">2</li><li id="views_slideshow_pager_field_item_bottom_homepage_slider-block_1_3">3</li></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6 radix-layouts-contentcolumn1 panel-panel">
+<div class="panel-panel-inner">
+<div class="views-element-container block">
+<h2>MEETINGS COVERAGE</h2>
+<div>
+<div class="latest-coverage-front view js-view-dom-id-d849ff6ed487c23e3e4b54aed0861603b60952536af6790afac225d2002bb05a view-home-press">
+<div class="view-header">
+        Summaries of official meetings and events at UN Headquarters and overseas conferences.
+      </div>
+<div class="view-content">
+<div class="views-row">
+<article class="node press press--homepage-block-item" role="article">
+<div>
+<div class="field field--name-field-dated field--type-datetime field--label-hidden field__item"><time datetime="2023-10-09T12:00:00Z">9 October 2023</time>
+</div>
+<div class="field field--name-field-display-title field--type-string field--label-hidden field__item"><h3 class="page-header"><a href="/en/2023/gadis3714.doc.htm" hreflang="en">First Committee Meets under Dark Shadow of War in Europe, Resurgence of Violence in Middle East, Speaker Says, Warning Security Failures ‘Becoming the Norm’</a></h3>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"> <p>Heightened geopolitical tensions, retrenchment of a deteriorating security environment with few tangible gains, the enduring war in Ukraine and troubling events rapidly unfolding in the Middle East framed debate today in the First Committee ...</p>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article class="node press press--homepage-block-item" role="article">
+<div>
+<div class="field field--name-field-dated field--type-datetime field--label-hidden field__item"><time datetime="2023-10-09T12:00:00Z">9 October 2023</time>
+</div>
+<div class="field field--name-field-display-title field--type-string field--label-hidden field__item"><h3 class="page-header"><a href="/en/2023/gaef3588.doc.htm" hreflang="en">Taking Up Sustainable Development, Second Committee Discusses Reports Including on Environmental Convention Implementation, Renewable Energy Access for All</a></h3>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"> <p>As the Second Committee (Economic and Financial) took up more than a dozen reports relating to sustainable development today, delegates spotlighted the importance of promoting renewable, sustainable and affordable sources of energy, also calling ...</p>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article class="node press press--homepage-block-item" role="article">
+<div>
+<div class="field field--name-field-dated field--type-datetime field--label-hidden field__item"><time datetime="2023-10-09T12:00:00Z">9 October 2023</time>
+</div>
+<div class="field field--name-field-display-title field--type-string field--label-hidden field__item"><h3 class="page-header"><a href="/en/2023/gashc4379.doc.htm" hreflang="en">Recognizing Need to Bolster Indigenous Peoples’ Rights, Third Committee Underscores Importance of Respecting Traditional Lands, Valuable Conservation Knowledge </a></h3>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"> <p>Obstacles remain to realizing the full rights of Indigenous Peoples, but initiatives meant to empower them offer opportunities for social and economic growth as well as healing from past wounds, the Third Committee (Social Humanitarian, Cultural ...</p>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article class="node press press--homepage-block-item" role="article">
+<div>
+<div class="field field--name-field-dated field--type-datetime field--label-hidden field__item"><time datetime="2023-10-09T12:00:00Z">9 October 2023</time>
+</div>
+<div class="field field--name-field-display-title field--type-string field--label-hidden field__item"><h3 class="page-header"><a href="/en/2023/gaab4428.doc.htm" hreflang="en">Without Faster Collection Rate of Unpaid Assessments, United Nations Liquidity Crisis Risks Worsening in 2024, Management Chief Warns Fifth Committee</a></h3>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"> <p>The United Nations senior management official told delegates in the Fifth Committee (Administrative and Budgetary) today that the deteriorating liquidity situation of the Organization’s regular budget could persist into 2024 if the collection ...</p>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article class="node press press--homepage-block-item" role="article">
+<div>
+<div class="field field--name-field-dated field--type-datetime field--label-hidden field__item"><time datetime="2023-10-09T12:00:00Z">9 October 2023</time>
+</div>
+<div class="field field--name-field-display-title field--type-string field--label-hidden field__item"><h3 class="page-header"><a href="/en/2023/gaspd780.doc.htm" hreflang="en">Fourth Committee Debate on Decolonization Continues with Spotlight on Special Needs of Small Island Non-Self-Governing Territories</a></h3>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"> <p>Continuing its general debate on decolonization and related items, speakers in the Fourth Committee (Special Political and Decolonization) today called for special attention to be given to the vulnerability of small island Non-Self-Governing ...</p>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article class="node press press--homepage-block-item" role="article">
+<div>
+<div class="field field--name-field-dated field--type-datetime field--label-hidden field__item"><time datetime="2023-10-09T12:00:00Z">9 October 2023</time>
+</div>
+<div class="field field--name-field-display-title field--type-string field--label-hidden field__item"><h3 class="page-header"><a href="/en/2023/sc15434.doc.htm" hreflang="en">Briefing Security Council on Attacks against Ukrainian Village, City Centre, Senior Official Stresses Member States Must Show Commitment to UN Charter</a></h3>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"> <p>Member States must demonstrate in their actions, not just in words, their commitment to the principles of the Charter of the United Nations, particularly the sovereignty, independence and territorial integrity of all States, a senior United ...</p>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article class="node press press--homepage-block-item" role="article">
+<div>
+<div class="field field--name-field-dated field--type-datetime field--label-hidden field__item"><time datetime="2023-10-06T12:00:00Z">6 October 2023</time>
+</div>
+<div class="field field--name-field-display-title field--type-string field--label-hidden field__item"><h3 class="page-header"><a href="/en/2023/gaspd779.doc.htm" hreflang="en">Fourth Committee Hears Last Petitioners, Resumes General Debate with Conflict in Western Sahara Again in Spotlight</a></h3>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"> <p>The question of Western Sahara remained in the spotlight today as the Fourth Committee (Special Political and Decolonization) resumed its general debate on decolonization and related issues today, after hearing the last of more 200 petitioners ...</p>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article class="node press press--homepage-block-item" role="article">
+<div>
+<div class="field field--name-field-dated field--type-datetime field--label-hidden field__item"><time datetime="2023-10-06T12:00:00Z">6 October 2023</time>
+</div>
+<div class="field field--name-field-display-title field--type-string field--label-hidden field__item"><h3 class="page-header"><a href="/en/2023/gaef3587.doc.htm" hreflang="en">Widening Digital Gap between Developed, Developing States Threatening to Exclude  World’s Poorest from Next Industrial Revolution, Speakers Tell Second Committee</a></h3>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"> <p>A widening digital divide and severely lagging Internet-use in developing countries threaten to leave those States in the technological wake and preclude progress on the Sustainable Development Goals (SDGs), a senior United Nations official and ...</p>
+</div>
+</div>
+</article>
+</div>
+</div>
+<div class="view-footer">
+<div class="more-link"><a href="https://press.un.org/en/content/meetings-coverage">Latest Meetings Coverage</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6 radix-layouts-contentcolumn2 panel-panel">
+<div class="panel-panel-inner">
+<div class="views-element-container block">
+<h2>PRESS RELEASES</h2>
+<div>
+<div class="latest-coverage-front view js-view-dom-id-f56dcccba8d7947d76330dd90beca4035f34e265f2ad1dd23e997e45ad4223a9 view-home-press">
+<div class="view-header">
+        Press releases from the main United Nations bodies, as well as offices and departments of the Secretariat.
+      </div>
+<div class="view-content">
+<div class="views-row">
+<article class="node press press--homepage-block-item" role="article">
+<div>
+<div class="field field--name-field-dated field--type-datetime field--label-hidden field__item"><time datetime="2023-10-09T12:00:00Z">9 October 2023</time>
+</div>
+<div class="field field--name-field-display-title field--type-string field--label-hidden field__item"><h3 class="page-header"><a href="/en/2023/sgsm21983.doc.htm" hreflang="en">United Nations Initiatives, Governance Forum Can Advance Collective Efforts, ‘Build the Internet We Want to Empower All People’, Secretary-General Says</a></h3>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"> <p>Following is the text of UN Secretary-General António Guterres’ video message to the Internet Governance Forum, in Kyoto today:</p>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article class="node press press--homepage-block-item" role="article">
+<div>
+<div class="field field--name-field-dated field--type-datetime field--label-hidden field__item"><time datetime="2023-10-09T12:00:00Z">9 October 2023</time>
+</div>
+<div class="field field--name-field-display-title field--type-string field--label-hidden field__item"><h3 class="page-header"><a href="/en/2023/sgsm21984.doc.htm" hreflang="en">‘It’s Time to End This Vicious Circle’ of Bloodshed, Hatred with Negotiated Peace Fulfilling Aspirations of Palestinians, Israelis, Secretary-General Stresses</a></h3>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"> <p>Following are UN Secretary-General António Guterres’ remarks to the press on the Middle East, in New York today:</p>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article class="node press press--homepage-block-item" role="article">
+<div>
+<div class="field field--name-field-dated field--type-datetime field--label-hidden field__item"><time datetime="2023-10-08T12:00:00Z">8 October 2023</time>
+</div>
+<div class="field field--name-field-display-title field--type-string field--label-hidden field__item"><h3 class="page-header"><a href="/en/2023/sgsm21982.doc.htm" hreflang="en">Secretary-General Deeply Saddened by Earthquake in Afghanistan, Extends Sincere Condolences to Families of Victims</a></h3>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"> <p>The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:</p>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article class="node press press--homepage-block-item" role="article">
+<div>
+<div class="field field--name-field-dated field--type-datetime field--label-hidden field__item"><time datetime="2023-10-07T12:00:00Z">7 October 2023</time>
+</div>
+<div class="field field--name-field-display-title field--type-string field--label-hidden field__item"><h3 class="page-header"><a href="/en/2023/sgsm21981.doc.htm" hreflang="en">Secretary-General Strongly Condemns Attack by Hamas against Israeli Towns Near Gaza Strip, Which Have Killed Numerous Civilians, Injured Hundreds</a></h3>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"> <p>The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:</p>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article class="node press press--homepage-block-item" role="article">
+<div>
+<div class="field field--name-field-dated field--type-datetime field--label-hidden field__item"><time datetime="2023-10-06T12:00:00Z">6 October 2023</time>
+</div>
+<div class="field field--name-field-display-title field--type-string field--label-hidden field__item"><h3 class="page-header"><a href="/en/2023/sga2233.doc.htm" hreflang="en">Local and Regional Engagement, Action and Multi-Level Cooperation Are Vital to Rescue SDGs and Contribute to Topics under the Summit of Future</a></h3>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"> <p>UN Secretary-General António Guterres launched his Advisory Group on Local and Regional Governments, through its first hybrid meeting among its 20 members.  The meeting offered an opportunity to exchange on strategic topics pertaining to local ...</p>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article class="node press press--homepage-block-item" role="article">
+<div>
+<div class="field field--name-field-dated field--type-datetime field--label-hidden field__item"><time datetime="2023-10-06T12:00:00Z">6 October 2023</time>
+</div>
+<div class="field field--name-field-display-title field--type-string field--label-hidden field__item"><h3 class="page-header"><a href="/en/2023/sgsm21980.doc.htm" hreflang="en">‘Outrageous a Person Dies of Hunger Every Few Seconds’, Secretary-General Declares in Message on World Food Day, Calls for Crisis to Be Top of Global Agenda</a></h3>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"> <p>Following is UN Secretary-General António Guterres’ message on World Food Day, observed 16 October:</p>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article class="node press press--homepage-block-item" role="article">
+<div>
+<div class="field field--name-field-dated field--type-datetime field--label-hidden field__item"><time datetime="2023-10-06T12:00:00Z">6 October 2023</time>
+</div>
+<div class="field field--name-field-display-title field--type-string field--label-hidden field__item"><h3 class="page-header"><a href="/en/2023/sgsm21975.doc.htm" hreflang="en">Today’s Nobel Peace Prize Important Reminder that Rights of Women, Girls are Facing Strong Pushback, Secretary-General Says</a></h3>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"> <p>The following statement by UN Secretary-General António Guterres was issued today:</p>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article class="node press press--homepage-block-item" role="article">
+<div>
+<div class="field field--name-field-dated field--type-datetime field--label-hidden field__item"><time datetime="2023-10-06T12:00:00Z">6 October 2023</time>
+</div>
+<div class="field field--name-field-display-title field--type-string field--label-hidden field__item"><h3 class="page-header"><a href="/en/2023/sgsm21979.doc.htm" hreflang="en">Local, Regional Leaders Essential Link in Trust between Multilateral Institutions ‘and the People We All Serve’, Secretary-General Says at Advisory Group Launch</a></h3>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"> <p>Following are UN Secretary-General António Guterres’ remarks to launch the Advisory Group on Local and Regional Governments, in New York today:</p>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article class="node press press--homepage-block-item" role="article">
+<div>
+<div class="field field--name-field-dated field--type-datetime field--label-hidden field__item"><time datetime="2023-10-06T12:00:00Z">6 October 2023</time>
+</div>
+<div class="field field--name-field-display-title field--type-string field--label-hidden field__item"><h3 class="page-header"><a href="/en/2023/sgsm21978.doc.htm" hreflang="en">Marking International Day, Secretary-General Stresses ‘In Our World of Plenty, Poverty Should Have No Home’, Calls for Renewed Commitment to Achieve SDGs</a></h3>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"> <p>Following is UN Secretary-General António Guterres’ message for the International Day for the Eradication of Poverty, observed on 17 October:</p>
+</div>
+</div>
+</article>
+</div>
+<div class="views-row">
+<article class="node press press--homepage-block-item" role="article">
+<div>
+<div class="field field--name-field-dated field--type-datetime field--label-hidden field__item"><time datetime="2023-10-06T12:00:00Z">6 October 2023</time>
+</div>
+<div class="field field--name-field-display-title field--type-string field--label-hidden field__item"><h3 class="page-header"><a href="/en/2023/sga2232.doc.htm" hreflang="en">Secretary-General Appoints Claver Gatete of Rwanda Executive Secretary, United Nations Economic Commission for Africa</a></h3>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"> <p>United Nations Secretary-General António Guterres announced today the appointment of Claver Gatete of Rwanda as the next Executive Secretary of the United Nations Economic Commission for Africa (ECA).</p>
+</div>
+</div>
+</article>
+</div>
+</div>
+<div class="view-footer">
+<div class="more-link"><a href="https://press.un.org/en/content/press-release">Latest Press Releases</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<aside class="col-md-3 radix-layouts-sidebar panel-panel">
+<div class="panel-panel-inner">
+<div class="views-element-container block">
+<h2>Highlights</h2>
+<div>
+<div class="view js-view-dom-id-3cf340c463da3b6bb2f29215a0d546116d334343c38735af72a9e91dbcdd2409 view-highlights">
+<div class="view-content">
+<div class="views-row">
+<div class="media media--type-highlight media--view-mode-highlights-block-item">
+<div class="media row g-2">
+<div class="media-image col-3 align-self-center">
+<div class="field field--name-field-media-image field--type-image field--label-hidden field__item">
+<img alt="General Assembly Hall" class="img-fluid" height="60" loading="lazy" src="/sites/default/files/styles/thumbnail_small/public/uploads/2023/01/ga.jpg?itok=yuMYn2Dm" width="60"/>
+</div>
+</div>
+<div class="media-body col-9">
+<a href="/en/2023/ga12487.doc.htm">
+<div class="field field--name-name field--type-string field--label-hidden field__item">Highlights of General Assembly 77th Session</div>
+</a>
+<div class="field field--name-field-date-location field--type-string field--label-hidden field__item">New York, 21 Sep - 30 Dec 2022</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row">
+<div class="media media--type-highlight media--view-mode-highlights-block-item">
+<div class="media row g-2">
+<div class="media-image col-3 align-self-center">
+<div class="field field--name-field-media-image field--type-image field--label-hidden field__item">
+<img alt="UNGA 78 logo" class="img-fluid" height="60" loading="lazy" src="/sites/default/files/styles/thumbnail_small/public/uploads/2023/09/UNGA78_Highlight.png?itok=BCC6cvVH" width="60"/>
+</div>
+</div>
+<div class="media-body col-9">
+<a href="/en/highlights/UNGA78">
+<div class="field field--name-name field--type-string field--label-hidden field__item">High-level meetings of the 78th session of the General Assembly</div>
+</a>
+<div class="field field--name-field-date-location field--type-string field--label-hidden field__item">New York, 19-26 September 2023</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row">
+<div class="media media--type-highlight media--view-mode-highlights-block-item">
+<div class="media row g-2">
+<div class="media-image col-3 align-self-center">
+<div class="field field--name-field-media-image field--type-image field--label-hidden field__item">
+<img alt="Security Council Thumbnail" class="img-fluid" height="60" loading="lazy" src="/sites/default/files/styles/thumbnail_small/public/uploads/2023/01/MicrosoftTeams-image%20%281%29.jpg?itok=J_z1l6Qz" width="60"/>
+</div>
+</div>
+<div class="media-body col-9">
+<a href="/en/2023/sc15172.doc.htm">
+<div class="field field--name-name field--type-string field--label-hidden field__item">Security Council 2022 Round-Up</div>
+</a>
+<div class="field field--name-field-date-location field--type-string field--label-hidden field__item">New York, 2022</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row">
+<div class="media media--type-highlight media--view-mode-highlights-block-item">
+<div class="media row g-2">
+<div class="media-image col-3 align-self-center">
+<div class="field field--name-field-media-image field--type-image field--label-hidden field__item">
+<img alt="2023 Water Conference" class="img-fluid" height="60" loading="lazy" src="/sites/default/files/styles/thumbnail_small/public/uploads/2023/03/2023%20Water%20Conference%20Highlight.png?itok=RHCHTXd3" width="60"/>
+</div>
+</div>
+<div class="media-body col-9">
+<a href="/en/highlights/WaterAction">
+<div class="field field--name-name field--type-string field--label-hidden field__item">United Nations  Water Conference</div>
+</a>
+<div class="field field--name-field-date-location field--type-string field--label-hidden field__item">New York, 22-24 March 2023</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row">
+<div class="media media--type-highlight media--view-mode-highlights-block-item">
+<div class="media row g-2">
+<div class="media-image col-3 align-self-center">
+<div class="field field--name-field-media-image field--type-image field--label-hidden field__item">
+<img alt="CSW67" class="img-fluid" height="60" loading="lazy" src="/sites/default/files/styles/thumbnail_small/public/uploads/2023/03/CSW67%20Highlight_0.png?itok=-Zhf2u0z" width="60"/>
+</div>
+</div>
+<div class="media-body col-9">
+<a href="/en/highlights/CSW67">
+<div class="field field--name-name field--type-string field--label-hidden field__item">Sixty-Seventh Session of the Commission on the Status of Women</div>
+</a>
+<div class="field field--name-field-date-location field--type-string field--label-hidden field__item">New York, 6-17 March 2023</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row">
+<div class="media media--type-highlight media--view-mode-highlights-block-item">
+<div class="media row g-2">
+<div class="media-image col-3 align-self-center">
+<div class="field field--name-field-media-image field--type-image field--label-hidden field__item">
+<img alt="LDC5 logo" class="img-fluid" height="60" loading="lazy" src="/sites/default/files/styles/thumbnail_small/public/uploads/2023/03/LDC5%20logo.jpg?itok=DObZ8qFm" width="60"/>
+</div>
+</div>
+<div class="media-body col-9">
+<a href="/en/highlights/LDC5">
+<div class="field field--name-name field--type-string field--label-hidden field__item"> Fifth United Nations Conference on the Least Developed Countries</div>
+</a>
+<div class="field field--name-field-date-location field--type-string field--label-hidden field__item">Doha, 5-9 March 2023</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="grey-bg noon-briefing-block">
+<h2>Daily Noon Briefing</h2>
+<div>
+<div class="view js-view-dom-id-08f7017d93b89beec7223ca351b59fc4ec21e4a4098666cab7f8a575bd3e0254 view-home-press">
+<div class="view-content">
+<div class="views-row">
+<div class="views-field views-field-view-node-1"><span class="field-content"><img alt="UN Spokesperson Stéphane Dujarric" class="img-responsive" src="/themes/custom/un_press_theme/assets/images/noon-briefing-image.jpg"/></span></div><div class="views-field views-field-view-node"><span class="field-content"><a href="/en/2023/db231009.doc.htm" hreflang="en"><time datetime="2023-10-09T12:00:00Z">9 October 2023</time>
+</a></span></div><div class="views-field views-field-body"><p class="field-content"></p><p>The World Food Programme (WFP) has begun rolling out food distributions to nearly 900,000 refugees in Ethiopia following a full revamp of the safeguards and controls at its refugee operations, with refugee camps across five regions receiving food parcels for the first time since WFP paused food distributions in June.</p></div>
+</div>
+</div>
+<div class="view-footer">
+<div class="more-link"><a href="https://press.un.org/en/content/noon-briefings">Latest Noon Briefings</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-element-container block">
+<h2>Press Conference</h2>
+<div>
+<div class="view js-view-dom-id-7d39ed8283ad55c9ce636e61b57aca0b04880e113c8d253ab1d2ba193fd28854 view-home-press">
+<div class="view-content">
+<div class="views-row">
+<article class="node press press--press-conference-block-item" role="article">
+<div>
+<div class="layout layout--onecol">
+<div class="layout__region layout__region--content">
+<div class="block">
+<div class="field field--name-field-dated field--type-datetime field--label-hidden field__item"><time datetime="2023-10-02T12:00:00Z">2 October 2023</time>
+</div>
+</div>
+</div>
+</div>
+<div class="layout layout--onecol">
+<div class="layout__region layout__region--content">
+<div class="block">
+<span><h3><a href="/en/2023/231002_sc.doc.htm" hreflang="en">Press Conference by Security Council President on Programme of Work for October</a></h3>
+</span>
+</div>
+<div class="block">
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"> <p>The Security Council’s programme for October will commence this afternoon with action on a resolution authorizing the deployment of an international police force in Haiti, its President for the month told a Headquarters press conference today.</p>
+</div>
+</div>
+<div class="block">
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+<div class="view-footer">
+<div class="more-link"><a href="https://press.un.org/en/content/press-conference">Latest Press Conferences</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</aside>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<footer class="page__footer-tabs">
+<div class="container">
+<div class="row">
+<div class="block block--resourcesandtools block--system-menu">
+<h2>Resources</h2>
+<ul class="nav">
+<li class="nav-item">
+<a class="nav-link" href="https://journal.un.org/en" title="Journal">Journal</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://www.un.org/en/events-and-news" title="Conferences &amp; Events">Conferences &amp; Events</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://www.un.org/en/media/accreditation/alert.shtml" title="Media Alert">Media Alert</a>
+</li>
+</ul>
+</div>
+<div class="block block--newsandmediaresources block--system-menu">
+<h2>News &amp; Media Resources</h2>
+<ul class="nav">
+<li class="nav-item">
+<a class="nav-link" href="https://news.un.org/en/" title="Global perspective Human stories">UN News</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://media.un.org/en/webtv" title="Webcast">Webcast</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="http://www.unmultimedia.org/photo/" title="Photo">Photo</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="http://www.unmultimedia.org/" title="Multimedia">Multimedia</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="http://www.un.org/media/accreditation/" title="Media Accreditation">Media Accreditation</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://www.unmultimedia.org/" title="Television">Television</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="http://www.unmultimedia.org/tv/unifeed/" title="UNIFEED">UNIFEED</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="http://www.un.org/sg/spokesperson/" title="Spokesperson for the Secretary-General">Spokesperson for the Secretary-General</a>
+</li>
+</ul>
+</div>
+<div class="block block--quicklinks block--system-menu">
+<h2>Quick Links</h2>
+<ul class="nav">
+<li class="nav-item">
+<a class="nav-link" data-drupal-link-system-path="content/general-assembly" href="/en/content/general-assembly" title="General Assembly section link">General Assembly</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" data-drupal-link-system-path="content/security-council" href="/en/content/security-council" title="Security Council section link">Security Council</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" data-drupal-link-system-path="content/economic-and-social-council" href="/en/content/economic-and-social-council" title="ECOSOC section link">Economic and Social Council</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" data-drupal-link-system-path="content/secretary-general" href="/en/content/secretary-general" title="Secretary-General section link">Secretary-General</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" data-drupal-link-system-path="content/noon-briefings" href="/en/content/noon-briefings" title="Latest Noon Briefing section link">Latest Noon Briefing</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" data-drupal-link-system-path="content/meetings-coverage" href="/en/content/meetings-coverage" title="Meetings Coverage section link">Meetings Coverage</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" data-drupal-link-system-path="content/press-release" href="/en/content/press-release" title="Press Releases section link">Press Releases</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" data-drupal-link-system-path="content/press-conference" href="/en/content/press-conference" title="Meetings Coverage section link">Press Conferences</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<footer class="page__footer">
+<div class="container">
+<div class="row d-flex justify-content-between align-items-md-center">
+<div class="col-4 col-md-4 col-lg-5 col-xl-6 footer-brand">
+<a href="https://www.un.org/en" title="Home">
+<span class="site-name">United Nations</span></a>
+</div>
+<div class="col-8 col-md-8 col-lg-7 col-xl-6 justify-content-end">
+<div class="row">
+<div class="col-12 col-md-8 d-flex align-items-md-center menu-social">
+<div class="social-media">
+<a class="footer-link" href="https://www.un.org/en/get-involved/social-media/" target="_blank">Join the conversation:</a>
+<div class="block block--footersocialmenu block--system-menu">
+<ul class="nav">
+<li class="nav-item">
+<a class="nav-link" href="https://www.facebook.com/unitednations"><i class="fab fa-facebook-square"></i><span class="sr-only">Facebook</span></a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://twitter.com/UNMediaLiaison"><i class="fab fa-twitter"></i><span class="sr-only">Twitter</span></a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://www.youtube.com/channel/UC5O114-PQNYkurlTg6hekZw"><i class="fab fa-youtube-square"></i><span class="sr-only">Youtube</span></a>
+</li>
+<li class="nav-item">
+<a class="nav-link" data-drupal-link-system-path="rss.xml" href="/en/rss.xml"><i class="fa fa-rss"></i><span class="sr-only">RSS</span></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-4 d-flex align-items-md-center justify-content-md-end donate-wrapper">
+<div class="donate">
+<a class="btn btn-default btn-reverse dark" href="https://www.un.org/en/about-us/how-to-donate-to-the-un-system/" id="donate_button" role="button" target="_blank">Donate</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<footer class="page__footer-bottom">
+<div class="container">
+<div class="row d-flex justify-content-md-end align-items-md-center">
+<div class="col-12">
+<div class="block block--ungloballinksfootermenu block--system-menu">
+<ul class="nav">
+<li class="nav-item">
+<a class="nav-link" href="http://www.un.org/en/siteindex/" title="Site Index">A-Z Site Index</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://www.un.org/en/contact-us-0" title="Help">Contact</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="http://www.un.org/en/aboutun/copyright/" title="Copyright">Copyright</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://www.un.org/en/about-us/frequently-asked-questions">FAQ</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="http://www.un.org/en/aboutun/fraudalert/" title="Fraud Alert">Fraud Alert</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="http://www.un.org/en/aboutun/privacy/" title="Privacy Notice">Privacy Notice</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://www.un.org/en/aboutun/terms" title="Terms of Use">Terms of Use</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<script>window.dataLayer = window.dataLayer || []; window.dataLayer.push({"drupalLanguage":"en","drupalCountry":"US","siteName":"UN Press","userUid":0});</script>
+<script data-drupal-selector="drupal-settings-json" type="application/json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"en\/","currentPath":"home","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en","themeUrl":"themes\/custom\/un_press_theme"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":0},"fr":{"id":"fr","name":"French","direction":"ltr","weight":1}}},"viewsSlideshowPagerFields":{"homepage_slider-block_1":{"bottom":{"activatePauseOnHover":0}}},"viewsSlideshowPager":{"homepage_slider-block_1":{"bottom":{"type":"viewsSlideshowPagerBullets"}}},"viewsSlideshowControls":{"homepage_slider-block_1":{"bottom":{"type":"viewsSlideshowControlsText"}}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_homepage_slider-block_1":{"num_divs":4,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"homepage_slider-block_1","effect":"fade","transition_advanced":0,"timeout":5000,"speed":700,"delay":0,"sync":1,"random":0,"pause":0,"pause_on_click":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"fixed_height":1,"items_per_slide":1,"items_per_slide_first":0,"items_per_slide_first_number":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":1,"cleartypenobg":1,"advanced_options":"{}","advanced_options_choices":0,"advanced_options_entry":""}},"viewsSlideshow":{"homepage_slider-block_1":{"methods":{"goToSlide":["viewsSlideshowSlideCounter","viewsSlideshowPager","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowSlideCounter","viewsSlideshowPager","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowSlideCounter","viewsSlideshowPager","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowSlideCounter","viewsSlideshowPager"],"transitionEnd":[]},"paused":0}},"ajaxTrustedUrl":{"\/en\/sitesearch":true},"user":{"uid":0,"permissionsHash":"d429094e8101c7fbbf66cf85f7616354d19f2337c642528ef74c3443208d6269"}}</script>
+<script src="/sites/default/files/js/js_vL7IxG3UlgIW0JVJVSuk7gH9-cnoUPopGQemF7sZEfU.js"></script>
+</body>
+</html>
