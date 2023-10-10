@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 
 # In[33]:
 
-
+"This is a change"
 seed_url = "https://press.un.org/en"
 
 urls = [seed_url]    #queue of urls to crawl
@@ -150,5 +150,4 @@ print(saved)
 # In[371]:
 
 
-seen_total
 
